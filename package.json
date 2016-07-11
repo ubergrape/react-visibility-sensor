@@ -1,6 +1,6 @@
 {
   "name": "react-visibility-sensor",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Sensor component for React that notifies you when it goes in or out of the window viewport.",
   "main": "visibility-sensor.js",
   "scripts": {
@@ -17,8 +17,8 @@
   "author": "joshwnj",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "^0.14.0 || ^15.2.0",
+    "react-dom": "^0.14.0 || ^15.2.0"
   },
   "devDependencies": {
     "browserify": "^5.11.2",
